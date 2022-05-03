@@ -3,6 +3,8 @@
 
 ***Conteúdo do Curso:***
 
+* [ ] Display.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
