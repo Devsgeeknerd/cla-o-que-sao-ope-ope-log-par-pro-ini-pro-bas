@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Flex Container
 
-<!-- ***Conteúdo:*** -->
+***Conteúdo do Curso:***
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
