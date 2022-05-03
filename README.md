@@ -24,7 +24,7 @@
 <!--  * [Recursos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
 <!-- * [Agradecimentos](#agradecimentos) -->
-<!-- * [Informações](#informações) -->
+* [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
