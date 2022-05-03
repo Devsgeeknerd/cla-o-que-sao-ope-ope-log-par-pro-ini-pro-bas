@@ -5,6 +5,7 @@
 
 * [ ] Display.
 * [ ] Flex-direction.
+* [ ] Flex-wrap.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
