@@ -7,6 +7,7 @@
 * [ ] Flex-direction.
 * [ ] Flex-wrap.
 * [ ] Flex-flow.
+* [ ] Justify-content.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
