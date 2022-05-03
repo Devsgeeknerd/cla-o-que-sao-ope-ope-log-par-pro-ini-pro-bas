@@ -8,6 +8,7 @@
 * [ ] Flex-wrap.
 * [ ] Flex-flow.
 * [ ] Justify-content.
+* [ ] Align-items.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
