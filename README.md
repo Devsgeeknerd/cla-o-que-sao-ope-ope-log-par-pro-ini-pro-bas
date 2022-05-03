@@ -4,6 +4,7 @@
 ***Conteúdo do Curso:***
 
 * [ ] Display.
+* [ ] Flex-direction.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
