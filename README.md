@@ -63,9 +63,9 @@
 &nbsp;
 ![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-<!-- ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-fle-con-fle-box?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores") -->
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-fle-con-fle-box?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
-<!-- ![stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-fle-con-fle-box?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas") -->
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-fle-con-fle-box?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
 <!-- ![forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-fle-con-fle-box?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações") -->
 &nbsp;
