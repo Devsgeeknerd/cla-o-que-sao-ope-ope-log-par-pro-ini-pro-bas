@@ -3,7 +3,7 @@
 
 ***Conteúdo do Curso:***
 
-O Flex Container e a *tag* que envolve os itens flex, ao indicar 'display: flex', essa *tag* passa a ser um Flex Container.
+O Flex Container e a *tag* que envolve os itens flex, ao indicar `display: flex`, essa *tag* passa a ser um Flex Container.
 
 * [ ] Display.
 * [ ] Flex-direction.
